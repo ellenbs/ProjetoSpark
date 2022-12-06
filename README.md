@@ -1,4 +1,4 @@
-# ProjetoSpark
+# Projeto Spark | MegaDados 2022.2
 
 ## Alunas: 
 - Ellen Shen e Luiza Valezim
